@@ -23,3 +23,7 @@ go.work.sum
 
 # env file
 .env
+
+# exclude Quicken QIF files and output csv
+*.QIF
+*.csv
